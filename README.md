@@ -1,4 +1,4 @@
-# Pi-CRM
+# Laravel 8 / BlogCMS Tuncay Şeker
 
 - The offline documentation is available within the theme [Offline documentation page](//localhost:8000/documentation/getting-started/build)
 
